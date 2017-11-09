@@ -23,3 +23,5 @@
 (define (add-1 n) (+ n 1))
 
 ((a add-1) 0)
+
+; result: 65536
